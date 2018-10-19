@@ -75,6 +75,9 @@
         "Skip": "Omitir",
         "Toggle Line Numbers": "Mostrar/Ocultar número de líneas",
         "Yes": "Sí",
-        "Yesterday": "ayer"
+        "Yesterday": "Ayer",
+        "Type to search..." : "Escriba para buscar...",
+        "No matches" : "Sin resultados",
+        "Loading..." : "Cargando..."
     }
 }
